@@ -1,0 +1,10 @@
+<svg id="background"  pointer-events="visible">
+  <text id="myLabel" />
+  <text id="mins"/>
+    <text id="steps" pointer-events="visible">0</text>
+    <image href="assets/stat_steps_solid_32px.png" id="stepspic"/>
+    <text id="hrm" pointer-events="visible">0</text>
+    <image href="assets/stat_hr_solid_32px.png" id="hrpic"/>
+    <text id="cals" pointer-events="visible">0</text>
+    <image href="assets/stat_cals_solid_32px.png" id="calspic"/>
+</svg>
